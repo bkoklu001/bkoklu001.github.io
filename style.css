@@ -1,0 +1,19 @@
+body{
+	font-family: 'Courier New', Courier, monospace
+}
+
+header *{
+	display: inline-flex;
+	align-items: center;
+	height: 80px;
+}
+
+#titleText{
+	margin: 10%;
+	font-size: 50px;
+}
+
+#games{
+	display: flex;
+	justify-content: center;
+}
