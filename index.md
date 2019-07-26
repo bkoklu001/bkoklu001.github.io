@@ -7,5 +7,5 @@ Hello, I am Bera Koklu, and I have just started coding. After a few weeks, I rea
 
 ### My games
 
-## ![](https://user-images.githubusercontent.com/52800665/61840334-ccf0c200-ae5e-11e9-9edb-111573d1358d.png) [guessCoin](https://bkoklu001.github.io/guesscoin/)
+## ![](https://user-images.githubusercontent.com/52800665/61919685-b876fd00-af24-11e9-8ff5-ff14e636c294.png) [guessCoin](https://bkoklu001.github.io/guesscoin/)
 #### [View on GitHub](https://github.com/bkoklu001/guesscoin)
