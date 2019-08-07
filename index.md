@@ -14,3 +14,8 @@
 ### [View on GitHub](https://github.com/bkoklu001/techclicker) // [WIKI](https://github.com/bkoklu001/techclicker/wiki) // **v0.0.X.X**
 
 > X means that the place it's in is changing too frequently for me to keep updating the site to change the numbers.
+
+## Current Testing
+#### These are testing links where you can find the current games that I'm working on. You can never tell what these programs have in the code, but I am using them to store programs I am working on currently!
+
+#### [Windows](https://github.com/bkoklu001/bkoklu001.github.io/files/3474714/ClickerTest.zip)
