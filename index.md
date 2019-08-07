@@ -18,4 +18,4 @@
 ## Current Testing
 #### These are testing links where you can find the current games that I'm working on. You can never tell what these programs have in the code, but I am using them to store programs I am working on currently!
 
-#### [Windows32Bit](https://github.com/bkoklu001/bkoklu001.github.io/files/3474854/ClickerTest32.zip) [Windows64Bit](https://github.com/bkoklu001/bkoklu001.github.io/files/3474855/ClickerTest64.zip)
+#### [Windows32Bit](https://github.com/bkoklu001/bkoklu001.github.io/files/3474854/ClickerTest32.zip) // [Windows64Bit](https://github.com/bkoklu001/bkoklu001.github.io/files/3474855/ClickerTest64.zip)
